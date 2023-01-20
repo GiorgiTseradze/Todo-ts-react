@@ -16,8 +16,8 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ git clone https://github.com/GiorgiTseradze/budget-calculator
-$ cd budget-calculator
+$ git clone https://github.com/GiorgiTseradze/Todo-ts-react.git
+$ cd todo-ts-react
 $ npm install
 $ npm start
 ```
